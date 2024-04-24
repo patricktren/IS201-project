@@ -23,11 +23,16 @@
 
 /* text styles */
 .ts-default{
+    font-family: 'Courier New', Courier, monospace;
     text-decoration: none;
     font-weight: 300;
 }
 .ts-bold{
     font-weight: bold;
+}
+
+.ts-fancy{
+    font-family: cursive;
 }
 
 /* font size */
