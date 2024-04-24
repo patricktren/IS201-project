@@ -1,0 +1,98 @@
+
+
+/* background colors */
+.bg-dark{
+    background-color: #121212;
+}
+.bg-darkgray{
+    background-color: #1f2021;
+}
+.bg-white{
+    background-color: white;
+}
+
+
+/* text colors */
+.tc-white{
+    color: white;
+}
+
+.tc-lightgray{
+    color: #70959e;
+}
+
+/* text styles */
+.ts-default{
+    text-decoration: none;
+    font-weight: 300;
+}
+.ts-bold{
+    font-weight: bold;
+}
+
+/* font size */
+.fs-18{
+    font-size: 18px;
+}
+
+
+
+.fs-large{
+    font-size: 50px;
+}
+
+
+/* alignment */
+.align-center{
+    text-align: center;
+}
+
+.align-right{
+    text-align: right;
+}
+
+.align-left{
+    text-align: left;
+}
+
+/* float */
+.float-right{
+    float: right;
+}
+.float-left{
+    float: left;
+}
+
+/* margins */
+.mg-left-m{
+    margin-left: 50px;
+}
+.mg-right-m{
+    margin-right: 50px;
+}
+.mg-top-m{
+    margin-top: 50px;
+}
+.mg-bottom-m{
+    margin-bottom: 50px;
+}
+
+.mg-top-sm{
+    margin-top: 20px;
+}
+.mg-bottom-sm{
+    margin-bottom: 20px;
+}
+
+/* padding */
+.pd-top-sm{
+    padding-top: 20px;
+}
+
+.pd-bottom-sm{
+    padding-bottom: 20px;
+}
+
+ol{
+    list-style-position: inside;
+}
